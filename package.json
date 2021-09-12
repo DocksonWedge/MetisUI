@@ -1,0 +1,27 @@
+{
+  "name": "metisui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DocksonWedge/MetisUI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DocksonWedge/MetisUI/issues"
+  },
+  "homepage": "https://github.com/DocksonWedge/MetisUI#readme",
+  "devDependencies": {
+    "@types/node": "^16.9.1",
+    "cypress": "^8.3.1",
+    "typescript": "^4.4.3"
+  },
+  "dependencies": {
+    "cypress-real-events": "^1.5.1"
+  }
+}
